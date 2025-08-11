@@ -18,6 +18,10 @@ O Ticket Lock é uma solução para o problema de exclusão mútua que utiliza u
 - `main.c`: Código-fonte principal com implementação do Ticket Lock e testes com múltiplas threads.
 - `README.md`: Este arquivo de documentação.
 
+## Link do GitHub
+
+[AlgoritmodoTicket](https://github.com/Asfuri/AlgoritmodoTicket)
+
 ## Como Compilar
 
 ```bash
